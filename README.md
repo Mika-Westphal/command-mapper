@@ -8,6 +8,7 @@ A small python3 programm to map shell commands and python3 code to your controll
 
 # Bindings
 You can edit your bindings in the **inputs.json** file<br>
+When a command starts with **(@PY)** it will be executed as python 3 code else it will be executed as a shell command.<br>
 ## Button Mapping
 
 | Button Name | XBox One                  |
@@ -25,7 +26,6 @@ You can edit your bindings in the **inputs.json** file<br>
 | ABS_HAT0Y   | DPad up and down          |
 | ABS_HAT0X   | DPad left and right       |
 
-When you starts your command with **(@PY)** it will be executed as python 3 code else it will be executed as a shell command.
 ## Example
 ```json
 {
