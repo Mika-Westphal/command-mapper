@@ -1,0 +1,9 @@
+{
+  "BTN_SOUTH": [
+    "git init",
+    "(@PY)print(\"South\")"
+  ], 
+  "BTN_WEST": [
+    "(@PY)print(\"West\")"
+  ]
+}
