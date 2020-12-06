@@ -7,8 +7,8 @@ Install python 3 and execute **pip install** -r **requirements**.**txt**<br>
 After that simply run the programm with **python** **main.py**
 
 # Bindings
-You can edit your bindings in the **inputs.json** file
-Button Mapping: 
+You can edit your bindings in the **inputs.json** file<br>
+## Button Mapping
 
 | Button Name | XBox One                  |
 |-------------|---------------------------|
