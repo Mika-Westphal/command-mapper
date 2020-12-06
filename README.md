@@ -3,7 +3,7 @@ A small python3 programm to map shell commands and python3 code to your controll
 
 # Usage
 1. Grab the latest version of Command Mapper from the [releases tab](https://github.com/Mika-Westphal/command-mapper/releases) and unzip it to a folder<br>
-2. Install python 3 and execute **pip install** -r **requirements**.**txt**<br>
+2. Install python 3 (i use python 3.9) and execute **pip install** -r **requirements**.**txt**<br>
 3. Now simply run the programm with **python** **main.py**
 
 # Bindings
