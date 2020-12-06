@@ -3,12 +3,12 @@ A small python3 programm to map shell commands and python3 code to your controll
 
 # Usage
 
-Install python 3 and execute **pip install** -r **requirements**.**txt**.<br>
+Install python 3 and execute **pip install** -r **requirements**.**txt**<br>
 After that simply run the programm with **python** **main.py**
 
 # Bindings
-You can edit your bindings in the **inputs.json** file.
-You can use following buttons: 
+You can edit your bindings in the **inputs.json** file
+Button Mapping: 
 
 | Button Name | XBox One                  |
 |-------------|---------------------------|
